@@ -1,0 +1,14 @@
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\P-Mac\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\fux4i\source\repos\Midtest2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
